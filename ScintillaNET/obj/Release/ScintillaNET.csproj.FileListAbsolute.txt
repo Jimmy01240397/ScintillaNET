@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\bin\Release\ScintillaNET.xml
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\bin\Release\ScintillaNET.dll
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\bin\Release\ScintillaNET.pdb
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.FindReplaceDialog.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.IncrementalSearcher.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.GoToDialog.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.Properties.Resources.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.SnippetChooser.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.dll
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Release\ScintillaNET.pdb

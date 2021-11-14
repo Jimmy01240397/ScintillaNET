@@ -31,3 +31,15 @@ C:\Users\user\Desktop\新增資料夾\ScintillaNET\ScintillaNET\obj\Debug\Scinti
 C:\Users\user\Desktop\新增資料夾\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\新增資料夾\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.dll
 C:\Users\user\Desktop\新增資料夾\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.pdb
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\bin\Debug\ScintillaNET.dll
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\bin\Debug\ScintillaNET.pdb
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.FindReplaceDialog.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.IncrementalSearcher.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.GoToDialog.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.Properties.Resources.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.SnippetChooser.resources
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.dll
+C:\Users\user\source\repos\Chuon\ChuonCS\ChounTranslator\ScintillaNET\ScintillaNET\obj\Debug\ScintillaNET.pdb
